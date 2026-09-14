@@ -246,6 +246,3 @@ It highlights how machine learning can support healthcare analytics while emphas
 
 ---
 
-## 📄 License
-
-This project is intended for **educational purposes**.
